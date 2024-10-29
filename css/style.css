@@ -1,0 +1,78 @@
+.action-div {
+/* font: 1.0em 'Gill Sans MT', Calibri, Tahoma, Arial, Helvetica, Sans-Serif; */
+font: inherit;
+padding: 5px 5px 5px 5px;
+border: 1px solid #77cc99;
+margin-bottom: 10px;
+background: url(../images/base-bg.png) repeat;
+}
+
+.action-table {
+font: inherit;
+padding: 5px 5px 5px 5px;
+background: transparent;
+}
+
+.action-head {
+font: inherit;
+background-color: #116633;
+color: #fff !important;
+text-align: center;
+border: 1px solid #fff;
+}
+
+.action-head a, .action-head a:hover, .action-head a:visited {
+color: #fff !important;
+text-decoration: none;
+}
+
+.action-menu-item {
+font: inherit;
+background-color: #116633;
+color: #fff !important;
+text-align: center;
+border: 1px solid #fff;
+}
+
+.action-menu-item a {
+color: #fff !important;
+}
+
+.action-head-current {
+font: inherit;
+background-color: #77cc99;
+color: #fff;
+text-align: center;	
+border: 1px solid #fff;
+}
+
+.collapse {
+height: 0px;
+width: 0px;
+margin: -20px 0 -10px 0;
+}
+
+.action-cell {
+font: inherit;
+text-align: left;	
+padding: 5px 2px 5px 2px;
+}
+
+.action-row {
+	background: url(../images/base-bg.png) repeat;
+}
+
+.action-alt-row {
+	background: url(../images/alt-bg.png) repeat;
+}
+
+.action-button {
+font: inherit;
+padding: 5px 5px 5px 5px;
+border: 1px solid #77cc99;
+}
+
+.action-clear {
+clear: both;
+}
+
